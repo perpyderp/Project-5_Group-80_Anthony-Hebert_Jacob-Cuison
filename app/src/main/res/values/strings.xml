@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">RU Cafe</string>
+    <string name="ordering_donuts">Ordering Donuts</string>
+    <string name="ordering_coffee">Ordering Coffee</string>
+    <string name="current_order">Current Order</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="main_menu">Main Menu</string>
+    <string-array name="coffee_sizes">
+        <item>Short</item>
+        <item>Tall</item>
+        <item>Grande</item>
+        <item>Venti</item>
+    </string-array>
+    <string-array name="quantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="donutFlavors">
+        <item>Glazed</item>
+        <item>Chocolate Frosted</item>
+        <item>Boston Cream</item>
+        <item>Powdered</item>
+        <item>Chocolate</item>
+    </string-array>
+    <integer-array name="donutQuantities">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </integer-array>
+    <string name="donuts_ordered" >Donut(s) added to order successfully!</string>
+    <string name="no_donuts_on_order" >Add donuts to order to place order.</string><string name="no_donut_selected" >Select a donut to remove first</string>
+    <string name="no_flavor_selected" >Please select a flavor.</string>
+    <string name="coffee_added" >Your coffee(s) has been added to your order.</string>
+    <string name="empty_order_list" >The store order list is empty!</string>
+    <string name="no_items_added" >Please add items to your order before placing.</string>
+    <string name="order_placed" >Your order has been placed. Thank you!</string>
+    <string name="item_removed" >The selected item has been removed from your order.</string>
+</resources>
